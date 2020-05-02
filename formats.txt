@@ -1,0 +1,17 @@
+<formatdefinitions>
+
+<format>
+	<label>Block 1</label>
+	<set>Alpha</set>
+	<set>Beta</set>
+	<set>Gamma</set>
+</format>
+
+<format>
+	<label>Block 2</label>
+	<set>Delta</set>
+	<set>Epsilon</set>
+	<set>Zeta</set>
+</format>
+
+</formatdefinitions>

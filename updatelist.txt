@@ -1,0 +1,19 @@
+lolcats	07-18-14
+plugins/lolcats/plugininfo.txt	http://www.lackeyccg.com/lolcats/plugininfo.txt	447757
+plugins/lolcats/formats.txt	http://www.lackeyccg.com/lolcats/formats.txt	19676
+plugins/lolcats/bot.jpg	http://www.lackeyccg.com/lolcats/bot.jpg	31432
+plugins/lolcats/sets/carddata.txt	http://www.lackeyccg.com/lolcats/carddata.txt	57520
+plugins/lolcats/cardback.jpg	http://www.lackeyccg.com/lolcats/high/cardback.jpg	-53470
+plugins/lolcats/spawned.jpg	http://www.lackeyccg.com/lolcats/high/spawned.jpg	39868
+plugins/lolcats/images/Phase1.jpg	http://www.lackeyccg.com/lolcats/images/Phase1.jpg	-5071
+plugins/lolcats/images/Phase2.jpg	http://www.lackeyccg.com/lolcats/images/Phase2.jpg	-6731
+plugins/lolcats/images/Phase3.jpg	http://www.lackeyccg.com/lolcats/images/Phase3.jpg	-8346
+plugins/lolcats/images/Phase4.jpg	http://www.lackeyccg.com/lolcats/images/Phase4.jpg	-13880
+plugins/lolcats/images/Phase5.jpg	http://www.lackeyccg.com/lolcats/images/Phase5.jpg	3107
+plugins/lolcats/images/Phase6.jpg	http://www.lackeyccg.com/lolcats/images/Phase6.jpg	9170
+plugins/lolcats/packs/packdefinitions1.xml	http://www.lackeyccg.com/lolcats/packs/packdefinitions1.xml	177503
+plugins/lolcats/packs/samplebooster.jpg	http://www.lackeyccg.com/lolcats/packs/samplebooster.jpg	64009
+plugins/lolcats/sounds/meow.wav	http://www.lackeyccg.com/lolcats/sounds/meow.wav	-333966
+plugins/lolcats/sounds/meow2.wav	http://www.lackeyccg.com/lolcats/sounds/meow2.wav	-287961
+CardGeneralURLs:
+http://www.lackeyccg.com/lolcats/high/

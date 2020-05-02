@@ -1,0 +1,9 @@
+<version>
+
+<lastupdateYYMMDD>200502</lastupdateYYMMDD>
+<quality>MAX</quality>
+<versionurl>https://raw.githubusercontent.com/Tragic-zz/lackeyCCG-LoTRLCG/master/_update/version.txt</versionurl>
+<updateurl>https://raw.githubusercontent.com/Tragic-zz/lackeyCCG-LoTRLCG/master/_update/updatelist.txt</updateurl>
+<message>Moved the plugin to GitHub to host</message>
+
+</version>

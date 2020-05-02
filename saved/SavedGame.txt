@@ -1,0 +1,68 @@
+<save>
+<player>
+<name>Trev</name>
+<seat>0</seat>
+<zone0>
+<visibleto>Trev</visibleto>
+<card><id>3</id><owner>Trev</owner></card>
+</zone0>
+<zone1>
+<card><id>0</id><owner>Trev</owner></card>
+<card><id>1</id><owner>Trev</owner></card>
+<card><id>1</id><owner>Trev</owner></card>
+<card><id>2</id><owner>Trev</owner></card>
+<card><id>3</id><owner>Trev</owner></card>
+<card><id>1</id><owner>Trev</owner></card>
+<card><id>0</id><owner>Trev</owner></card>
+<card><id>2</id><owner>Trev</owner></card>
+<card><id>3</id><owner>Trev</owner></card>
+<card><id>2</id><owner>Trev</owner></card>
+<card><id>0</id><owner>Trev</owner></card>
+</zone1>
+<zone2>
+<visibleto>Trev</visibleto>
+<visibleto>Test Dummy</visibleto>
+</zone2>
+<zone3>
+<visibleto>Trev</visibleto>
+<visibleto>Test Dummy</visibleto>
+</zone3>
+<zone4>
+<visibleto>Trev</visibleto>
+</zone4>
+</player>
+<player>
+<name>Test Dummy</name>
+<seat>1</seat>
+<zone0>
+<visibleto>Test Dummy</visibleto>
+<card><id>3</id><owner>Test Dummy</owner></card>
+</zone0>
+<zone1>
+<card><id>1</id><owner>Test Dummy</owner></card>
+<card><id>0</id><owner>Test Dummy</owner></card>
+<card><id>3</id><owner>Test Dummy</owner></card>
+<card><id>1</id><owner>Test Dummy</owner></card>
+<card><id>2</id><owner>Test Dummy</owner></card>
+<card><id>3</id><owner>Test Dummy</owner></card>
+<card><id>2</id><owner>Test Dummy</owner></card>
+<card><id>0</id><owner>Test Dummy</owner></card>
+</zone1>
+<zone2>
+<visibleto>Test Dummy</visibleto>
+<visibleto>Trev</visibleto>
+</zone2>
+<zone3>
+<visibleto>Test Dummy</visibleto>
+<visibleto>Trev</visibleto>
+</zone3>
+<zone4>
+<visibleto>Test Dummy</visibleto>
+</zone4>
+</player>
+<table>
+<card><id>2</id><owner>Test Dummy</owner><x>0.36</x><y>0.51</y></card>
+<card><id>1</id><owner>Test Dummy</owner><x>-0.18</x><y>0.36</y></card>
+<card><id>0</id><owner>Test Dummy</owner><x>0.06</x><y>0.54</y></card>
+</table>
+</save>

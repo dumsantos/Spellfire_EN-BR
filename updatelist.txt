@@ -1,6 +1,7 @@
 Spellfire_EN-BR	07-18-14
 plugins/Spellfire_EN-BR/plugininfo.txt	https://raw.githubusercontent.com/dumsantos/Spellfire_EN-BR/master/plugininfo.txt	447757
 plugins/Spellfire_EN-BR/formats.txt	https://raw.githubusercontent.com/dumsantos/Spellfire_EN-BR/master/formats.txt	19676
+plugins/Spellfire_EN-BR/defaultchat.txt	https://raw.githubusercontent.com/dumsantos/Spellfire_EN-BR/master/defaultchat.txt	19676
 
 skins/Spellfire.txt	https://raw.githubusercontent.com/dumsantos/Spellfire_EN-BR/master/skins/Spellfire.txt	363605
 skins/Spellfire-PhaseBack.jpg	https://raw.githubusercontent.com/dumsantos/Spellfire_EN-BR/master/skins/Spellfire-PhaseBack.jpg	210840

@@ -109,7 +109,5 @@ plugins/Spellfire_EN-BR/bot.jpg	https://raw.githubusercontent.com/dumsantos/Spel
 plugins/Spellfire_EN-BR/packs/packdefinitions1.xml	https://raw.githubusercontent.com/dumsantos/Spellfire_EN-BR/master/packs/packdefinitions1.xml	177503
 plugins/Spellfire_EN-BR/packs/samplebooster.jpg	https://raw.githubusercontent.com/dumsantos/Spellfire_EN-BR/master/packs/samplebooster.jpg	64009
 
-plugins/Spellfire_EN-BR/sets/setimages/1st-Ed/	https://raw.githubusercontent.com/dumsantos/Spellfire_EN-BR/master/sets/setimages/1st-Ed
-
 CardGeneralURLs:
-https://raw.githubusercontent.com/dumsantos/Spellfire_EN-BR/master/sets/setimages/
+https://raw.githubusercontent.com/dumsantos/Spellfire_EN-BR/master/sets/setimages/1st-Ed/

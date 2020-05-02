@@ -1,4 +1,4 @@
-Spellfire_EN-BR	05-02-20
+Spellfire_EN-BR	07-18-14
 plugins/Spellfire_EN-BR/plugininfo.txt	https://raw.githubusercontent.com/dumsantos/Spellfire_EN-BR/master/plugininfo.txt	447757
 plugins/Spellfire_EN-BR/formats.txt	https://raw.githubusercontent.com/dumsantos/Spellfire_EN-BR/master/formats.txt	19676
 
@@ -104,8 +104,8 @@ plugins/Spellfire_EN-BR/images/interface/tab-right-selected.png	https://raw.gith
 plugins/Spellfire_EN-BR/images/interface/tab-right-selected-mouseover.png	https://raw.githubusercontent.com/dumsantos/Spellfire_EN-BR/master/plug-images/interface/tab-right-selected-mouseover.png	-3354
 plugins/Spellfire_EN-BR/bot.jpg	https://raw.githubusercontent.com/dumsantos/Spellfire_EN-BR/master/root/bot.jpg	270705
 
-plugins/Spellfire_EN-BR/packs/packdefinitions1.xml	https://raw.githubusercontent.com/dumsantos/Spellfire_EN-BR/packs/packdefinitions1.xml	177503
-plugins/Spellfire_EN-BR/packs/samplebooster.jpg	https://raw.githubusercontent.com/dumsantos/Spellfire_EN-BR/packs/samplebooster.jpg	64009
+plugins/Spellfire_EN-BR/packs/packdefinitions1.xml	https://raw.githubusercontent.com/dumsantos/Spellfire_EN-BR/master/packs/packdefinitions1.xml	177503
+plugins/Spellfire_EN-BR/packs/samplebooster.jpg	https://raw.githubusercontent.com/dumsantos/Spellfire_EN-BR/master/packs/samplebooster.jpg	64009
 
 CardGeneralURLs:
-https://raw.githubusercontent.com/dumsantos/Spellfire_EN-BR/master/sets/setimages/		
+http://www.lackeyccg.com/Spellfire_EN-BR/high/

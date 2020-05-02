@@ -8,6 +8,7 @@ skins/Spellfire-PhaseBack.jpg	https://raw.githubusercontent.com/dumsantos/Spellf
 plugins/Spellfire_EN-BR/bot.jpg	https://raw.githubusercontent.com/dumsantos/Spellfire_EN-BR/master/bot.jpg	31432
 plugins/Spellfire_EN-BR/sets/Allsets.txt	https://raw.githubusercontent.com/dumsantos/Spellfire_EN-BR/master/sets/Allsets.txt	57520
 plugins/Spellfire_EN-BR/cardback.jpg	https://raw.githubusercontent.com/dumsantos/Spellfire_EN-BR/master/cardback.jpg	-53470
+plugins/Spellfire_EN-BR/setlist.txt	https://raw.githubusercontent.com/dumsantos/Spellfire_EN-BR/master/setlist.txt	31432
 
 plugins/Spellfire_EN-BR/images/counterblack.png	https://raw.githubusercontent.com/dumsantos/Spellfire_EN-BR/master/images/counterblack.png	-3990
 plugins/Spellfire_EN-BR/images/counterwhite.png	https://raw.githubusercontent.com/dumsantos/Spellfire_EN-BR/master/images/counterwhite.png	-4011

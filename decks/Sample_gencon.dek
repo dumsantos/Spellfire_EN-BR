@@ -1,0 +1,63 @@
+<deck version="0.8">
+	<meta>
+		<game>spellfire</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="120">Good Fortune</name><set>4th-Ed</set></card>
+		<card><name id="017">Temple of Elemental Evil</name><set>4th-Ed</set></card>
+		<card><name id="140">Hurricane!</name><set>4th-Ed</set></card>
+		<card><name id="210">Myrmidons</name><set>4th-Ed</set></card>
+		<card><name id="384">Wish</name><set>4th-Ed</set></card>
+		<card><name id="270">Korgunard the Avangion</name><set>4th-Ed</set></card>
+		<card><name id="131">The Caravan</name><set>4th-Ed</set></card>
+		<card><name id="255">Helm</name><set>4th-Ed</set></card>
+		<card><name id="028">Tyr</name><set>4th-Ed</set></card>
+		<card><name id="119">Cataclysm!</name><set>4th-Ed</set></card>
+		<card><name id="003">Caer Allison</name><set>Forgotten</set></card>
+		<card><name id="092">Ancient Kalidnay</name><set>Artifacts</set></card>
+		<card><name id="116">Gib Kcir</name><set>Runes&Ruins</set></card>
+		<card><name id="111">Bag of Beans</name><set>Nightstalkers</set></card>
+		<card><name id="120">Dragon Font</name><set>Artifacts</set></card>
+		<card><name id="117">Horned Society, The</name><set>3rd-Ed</set></card>
+		<card><name id="135">Scarlet Brotherhood, The</name><set>3rd-Ed</set></card>
+		<card><name id="117">Amulet of Spell Protection</name><set>Artifacts</set></card>
+		<card><name id="118">Bell of Might</name><set>Forgotten</set></card>
+		<card><name id="102">Cold Cup of Calamity</name><set>Forgotten</set></card>
+		<card><name id="508">Ethereal Champion</name><set>4th-Ed</set></card>
+		<card><name id="024">Azure Tower of Onad the Fallen, The</name><set>Dungeons</set></card>
+		<card><name id="056">Blamblower</name><set>Dragonlance</set></card>
+		<card><name id="088">Headless Horseman</name><set>Ravenloft</set></card>
+		<card><name id="520">The Winner's Cape</name><set>4th-Ed</set></card>
+		<card><name id="400">Dispel</name><set>4th-Ed</set></card>
+		<card><name id="039">Tasslehoff Burrfoot</name><set>Dragonlance</set></card>
+		<card><name id="032">Ur Draxa</name><set>4th-Ed</set></card>
+		<card><name id="006">Ghoere</name><set>Birthright</set></card>
+		<card><name id="028">Bag of Holding</name><set>Artifacts</set></card>
+		<card><name id="400">Calm</name><set>3rd-Ed</set></card>
+		<card><name id="137">Deflection</name><set>4th-Ed</set></card>
+		<card><name id="382">Limited Wish</name><set>4th-Ed</set></card>
+		<card><name id="246">The Dreaded Ghost</name><set>4th-Ed</set></card>
+		<card><name id="110">Enter Darkness Together</name><set>Dungeons</set></card>
+		<card><name id="114">Necba the Wrathmaker</name><set>Dungeons</set></card>
+		<card><name id="288">Spirit of the Land</name><set>3rd-Ed</set></card>
+		<card><name id="038">The Last Sea</name><set>4th-Ed</set></card>
+		<card><name id="437">Estate Transference</name><set>1st-Ed</set></card>
+		<card><name id="103">Fighting Dirty!</name><set>Dungeons</set></card>
+		<card><name id="058">Living Wall</name><set>Powers</set></card>
+		<card><name id="061">Staff of Mimicry</name><set>Ravenloft</set></card>
+		<card><name id="082">Con Game</name><set>Dungeons</set></card>
+		<card><name id="450">Delsenora</name><set>1st-Ed</set></card>
+		<card><name id="093">Ellorelloran</name><set>Underdark</set></card>
+		<card><name id="003">Lair of the Shadowdrake</name><set>Dracnomicon</set></card>
+		<card><name id="074">Sure Thing, A</name><set>Nightstalkers</set></card>
+		<card><name id="122">Gib Drawsemaj</name><set>Nightstalkers</set></card>
+		<card><name id="167">Iuz the Evil</name><set>3rd-Ed</set></card>
+		<card><name id="389">Re-target</name><set>4th-Ed</set></card>
+		<card><name id="504">Sea of Dust</name><set>4th-Ed</set></card>
+		<card><name id="031">Border Garrison</name><set>Dungeons</set></card>
+		<card><name id="422">Gatekeeper</name><set>1st-Ed</set></card>
+		<card><name id="393">Disintegrate</name><set>1st-Ed</set></card>
+		<card><name id="053">Master Illithid</name><set>Dungeons</set></card>
+		<card><name id="001">Menzoberranzan</name><set>4th-Ed</set></card>
+	</superzone>
+</deck>

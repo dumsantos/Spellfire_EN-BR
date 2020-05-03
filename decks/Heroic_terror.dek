@@ -1,0 +1,62 @@
+<deck version="0.8">
+	<meta>
+		<game>spellfire</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="092">Ancient Kalidnay</name><set>Artifacts</set></card>
+		<card><name id="136">Irongate</name><set>1st-Ed</set></card>
+		<card><name id="002">Menzoberranzan</name><set>3rd-Ed</set></card>
+		<card><name id="001">Mithas</name><set>Dragonlance</set></card>
+		<card><name id="126">Perrenland</name><set>3rd-Ed</set></card>
+		<card><name id="124">Temple of Elemental Evil</name><set>3rd-Ed</set></card>
+		<card><name id="224">Tyr</name><set>3rd-Ed</set></card>
+		<card><name id="001">UnderAthas</name><set>Underdark</set></card>
+		<card><name id="003">UnderKrynn</name><set>Underdark</set></card>
+		<card><name id="007">UnderToril</name><set>Underdark</set></card>
+		<card><name id="005">Underdark, The</name><set>Underdark</set></card>
+		<card><name id="092">Cyric</name><set>Forgotten Realms</set></card>
+		<card><name id="097">Dr. Mordenheim</name><set>Ravenloft</set></card>
+		<card><name id="089">Helm</name><set>Forgotten Realms</set></card>
+		<card><name id="172">Hettman Tsurin</name><set>3rd-Ed</set></card>
+		<card><name id="462">Lovely Colleen</name><set>1st-Ed</set></card>
+		<card><name id="050">Marco Volo</name><set>3rd-Ed</set></card>
+		<card><name id="185">Thorvid</name><set>3rd-Ed</set></card>
+		<card><name id="301">Tithian</name><set>3rd-Ed</set></card>
+		<card><name id="181">Wolf Nomads</name><set>3rd-Ed</set></card>
+		<card><name id="165">Mika the Wolf Nomad</name><set>3rd-Ed</set></card>
+		<card><name id="162">Mordenkainen</name><set>3rd-Ed</set></card>
+		<card><name id="189">Arch-Druid</name><set>3rd-Ed</set></card>
+		<card><name id="167">Iuz the Evil</name><set>3rd-Ed</set></card>
+		<card><name id="206">Kevin&apos;s Blade of Doom</name><set>3rd-Ed</set></card>
+		<card><name id="217">Net of Entrapment</name><set>3rd-Ed</set></card>
+		<card><name id="020">Winged Boots</name><set>Artifacts</set></card>
+		<card><name id="003">Caer Allison</name><set>Forgotten Realms</set></card>
+		<card><name id="400">Calm</name><set>3rd-Ed</set></card>
+		<card><name id="319">Caravan, The</name><set>3rd-Ed</set></card>
+		<card><name id="099">Cataclysm!</name><set>3rd-Ed</set></card>
+		<card><name id="099">Cataclysm!</name><set>3rd-Ed</set></card>
+		<card><name id="056">Coming of the Phoenix</name><set>Runes&amp;Ruins</set></card>
+		<card><name id="054">Deflection</name><set>Artifacts</set></card>
+		<card><name id="054">Deflection</name><set>Artifacts</set></card>
+		<card><name id="100">Good Fortune</name><set>3rd-Ed</set></card>
+		<card><name id="002">Axe of the Dwarvish Lords</name><set>Artifacts</set></card>
+		<card><name id="101">Dream Team, The</name><set>Runes&amp;Ruins</set></card>
+		<card><name id="061">Myrmidons</name><set>3rd-Ed</set></card>
+		<card><name id="079">Loup-garou</name><set>Ravenloft</set></card>
+		<card><name id="096">Bear Hug</name><set>Runes&amp;Ruins</set></card>
+		<card><name id="096">Bear Hug</name><set>Runes&amp;Ruins</set></card>
+		<card><name id="091">Flying Kick</name><set>Runes&amp;Ruins</set></card>
+		<card><name id="092">Haymaker</name><set>Runes&amp;Ruins</set></card>
+		<card><name id="098">Headlock</name><set>Runes&amp;Ruins</set></card>
+		<card><name id="283">Sloth</name><set>3rd-Ed</set></card>
+		<card><name id="398">Spell Turning</name><set>3rd-Ed</set></card>
+		<card><name id="193">Skeleton</name><set>3rd-Ed</set></card>
+		<card><name id="152">Codex of the Infinite Planes</name><set>3rd-Ed</set></card>
+		<card><name id="053">Trumpet of Doom</name><set>Nightstalkers</set></card>
+		<card><name id="035">Nullification</name><set>Powers</set></card>
+		<card><name id="310">Orb of Power</name><set>3rd-Ed</set></card>
+		<card><name id="008">UnderOerth</name><set>Underdark</set></card>
+		<card><name id="094">Disarm</name><set>Runes&amp;Ruins</set></card>
+		<card><name id="155">Skeletal Horde</name><set>1st-Ed</set></card>
+	</superzone>
+</deck>

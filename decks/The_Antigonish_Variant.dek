@@ -1,0 +1,62 @@
+<deck version="0.8">
+	<meta>
+		<game>Spellfire_EN-BR</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="092">Ancient Kalidnay</name><set>Artifacts</set></card>
+		<card><name id="504">Sea of Dust</name><set>4th-Ed</set></card>
+		<card><name id="226">Nibenay</name><set>2nd-Ed</set></card>
+		<card><name id="006">Solamnia</name><set>Dragonlance</set></card>
+		<card><name id="002">Ruins of Zhentil Keep</name><set>4th-Ed</set></card>
+		<card><name id="005">Avanil</name><set>Birthright</set></card>
+		<card><name id="068">Picque Moi</name><set>Chaos</set></card>
+		<card><name id="017">Temple of Elemental Evil</name><set>4th-Ed</set></card>
+		<card><name id="002">The Shadowlands</name><set>Inquisition</set></card>
+		<card><name id="032">Ruins of Lololia, The</name><set>Dungeons</set></card>
+		<card><name id="002">Menzoberranzan</name><set>2nd-Ed</set></card>
+		<card><name id="001">Mithas</name><set>Dragonlance</set></card>
+		<card><name id="106">Manshoon of the Zhentarim</name><set>Runes&amp;Ruins</set></card>
+		<card><name id="450">Delsenora</name><set>1st-Ed</set></card>
+		<card><name id="270">Korgunard the Avangion</name><set>4th-Ed</set></card>
+		<card><name id="023">Lyr of the Mists</name><set>Powers</set></card>
+		<card><name id="060">Earth Elemental</name><set>Powers</set></card>
+		<card><name id="431">Prismal the Outrageous</name><set>1st-Ed</set></card>
+		<card><name id="089">Helm</name><set>Forgotten</set></card>
+		<card><name id="088">Headless Horseman</name><set>Ravenloft</set></card>
+		<card><name id="262">Erellika</name><set>3rd-Ed</set></card>
+		<card><name id="063">Zakhata, the False God</name><set>Conquest</set></card>
+		<card><name id="408">Living Scroll</name><set>1st-Ed</set></card>
+		<card><name id="058">Living Wall</name><set>Powers</set></card>
+		<card><name id="069">Unnerving Aura</name><set>Dragonlance</set></card>
+		<card><name id="083">Dispel Illusion</name><set>Inquisition</set></card>
+		<card><name id="104">Dissolution</name><set>Dungeons</set></card>
+		<card><name id="393">Disintegrate</name><set>2nd-Ed</set></card>
+		<card><name id="379">Spell Turning</name><set>4th-Ed</set></card>
+		<card><name id="049">Hold Person</name><set>Ravenloft</set></card>
+		<card><name id="382">Limited Wish</name><set>4th-Ed</set></card>
+		<card><name id="384">Wish</name><set>4th-Ed</set></card>
+		<card><name id="113">Takhisis&apos;s Abyssal Gateway</name><set>Dragonlance</set></card>
+		<card><name id="370">Dispel Magic</name><set>4th-Ed</set></card>
+		<card><name id="437">Estate Transference</name><set>1st-Ed</set></card>
+		<card><name id="056">Mindkiller</name><set>Underdark</set></card>
+		<card><name id="048">Intercession</name><set>Runes&amp;Ruins</set></card>
+		<card><name id="400">Dispel</name><set>4th-Ed</set></card>
+		<card><name id="084">Noble Djinni</name><set>3rd-Ed</set></card>
+		<card><name id="079">Loup-garou</name><set>Ravenloft</set></card>
+		<card><name id="246">The Dreaded Ghost</name><set>4th-Ed</set></card>
+		<card><name id="413">Map of Life</name><set>2nd-Ed</set></card>
+		<card><name id="055">Tyranthraxus, The Possessing Spirit</name><set>Runes&amp;Ruins</set></card>
+		<card><name id="100">Good Fortune</name><set>3rd-Ed</set></card>
+		<card><name id="319">Caravan, The</name><set>3rd-Ed</set></card>
+		<card><name id="436">Genie Bottle, The</name><set>1st-Ed</set></card>
+		<card><name id="003">Caer Allison</name><set>Forgotten</set></card>
+		<card><name id="056">Coming of the Phoenix</name><set>Runes&amp;Ruins</set></card>
+		<card><name id="416">Pit Trap!</name><set>2nd-Ed</set></card>
+		<card><name id="110">Enter Darkness Together</name><set>Dungeons</set></card>
+		<card><name id="024">Azure Tower of Onad the Fallen, The</name><set>Dungeons</set></card>
+		<card><name id="111">Unusually Good Fortune</name><set>Forgotten</set></card>
+		<card><name id="069">The Desolation</name><set>Chaos</set></card>
+		<card><name id="092">Cyric</name><set>Forgotten</set></card>
+		<card><name id="123">Gib Aklem</name><set>Nightstalkers</set></card>
+	</superzone>
+</deck>

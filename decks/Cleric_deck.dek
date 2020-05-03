@@ -1,0 +1,62 @@
+<deck version="0.8">
+	<meta>
+		<game>Spellfire_EN-BR</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="002">Menzoberranzan</name><set>3rd-Ed</set></card>
+		<card><name id="002">Black Bess</name><set>Forgotten</set></card>
+		<card><name id="007">Cromlin</name><set>Nightstalkers</set></card>
+		<card><name id="013">Kozakura</name><set>Forgotten</set></card>
+		<card><name id="017">Sword Coast</name><set>2nd-Ed</set></card>
+		<card><name id="019">Wyrm&apos;s Decree</name><set>Dracnomicon</set></card>
+		<card><name id="026">Daggerdale</name><set>2nd-Ed</set></card>
+		<card><name id="027">Aerial Servant</name><set>Forgotten</set></card>
+		<card><name id="402">Creeping Doom</name><set>4th-Ed</set></card>
+		<card><name id="030">Dargent, Silver Dragon</name><set>Dragonlance</set></card>
+		<card><name id="031">Quest</name><set>Forgotten</set></card>
+		<card><name id="034">Avangion&apos;s Protection</name><set>Powers</set></card>
+		<card><name id="036">Animate Rock</name><set>Ravenloft</set></card>
+		<card><name id="041">Bonemaster, Avatar of Nerull</name><set>Powers</set></card>
+		<card><name id="042">Verminaard the Dragonmaster</name><set>Dracnomicon</set></card>
+		<card><name id="046">Midnight, Goddess of Magic</name><set>2nd-Ed</set></card>
+		<card><name id="046">Mirror, Mirror</name><set>Powers</set></card>
+		<card><name id="048">Wolf Spirits</name><set>Underdark</set></card>
+		<card><name id="049">Conjure Earth Elemental</name><set>Runes&amp;Ruins</set></card>
+		<card><name id="050">Conjure Fire Elemental</name><set>Runes&amp;Ruins</set></card>
+		<card><name id="056">Vorpal Blade</name><set>Forgotten</set></card>
+		<card><name id="063">Ring of Reversion</name><set>Ravenloft</set></card>
+		<card><name id="065">Plague</name><set>Dracnomicon</set></card>
+		<card><name id="069">Breath Charm</name><set>Dungeons</set></card>
+		<card><name id="079">Loup-garou</name><set>Ravenloft</set></card>
+		<card><name id="083">Mind Flayer</name><set>2nd-Ed</set></card>
+		<card><name id="083">Reflection</name><set>Dragonlance</set></card>
+		<card><name id="084">Noble Djinni</name><set>2nd-Ed</set></card>
+		<card><name id="282">Adon</name><set>4th-Ed</set></card>
+		<card><name id="086">Fzoul Chembryl</name><set>Forgotten</set></card>
+		<card><name id="087">Young Robyn</name><set>Forgotten</set></card>
+		<card><name id="099">Divine Assistance</name><set>Dungeons</set></card>
+		<card><name id="100">Good Fortune</name><set>2nd-Ed</set></card>
+		<card><name id="101">Surprise Raid</name><set>2nd-Ed</set></card>
+		<card><name id="123">Great Kingdom</name><set>1st-Ed</set></card>
+		<card><name id="135">Scarlet Brotherhood, The</name><set>3rd-Ed</set></card>
+		<card><name id="189">Arch-Druid</name><set>2nd-Ed</set></card>
+		<card><name id="195">Treants of Grandwood</name><set>3rd-Ed</set></card>
+		<card><name id="204">Bribery!</name><set>2nd-Ed</set></card>
+		<card><name id="169">Net of Entrapment</name><set>4th-Ed</set></card>
+		<card><name id="224">Tyr</name><set>2nd-Ed</set></card>
+		<card><name id="226">Nibenay</name><set>2nd-Ed</set></card>
+		<card><name id="277">Silver Hands</name><set>1st-Ed</set></card>
+		<card><name id="319">Caravan, The</name><set>3rd-Ed</set></card>
+		<card><name id="354">Sanctuary</name><set>3rd-Ed</set></card>
+		<card><name id="358">Dispel Magic</name><set>2nd-Ed</set></card>
+		<card><name id="366">Raise Dead</name><set>2nd-Ed</set></card>
+		<card><name id="400">Calm</name><set>2nd-Ed</set></card>
+		<card><name id="011">Coral Kingdom, The</name><set>Forgotten</set></card>
+		<card><name id="415">Map to a Mercenary Army</name><set>1st-Ed</set></card>
+		<card><name id="450">Delsenora</name><set>1st-Ed</set></card>
+		<card><name id="456">Halcyon</name><set>1st-Ed</set></card>
+		<card><name id="464">Andra the Wise</name><set>1st-Ed</set></card>
+		<card><name id="083">Goldmoon</name><set>Artifacts</set></card>
+		<card><name id="099">Cataclysm!</name><set>2nd-Ed</set></card>
+	</superzone>
+</deck>

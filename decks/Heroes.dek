@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE deck SYSTEM "http://www.lackeyccg.com/deck.dtd">
+<deck version="0.8">
+	<meta>
+		<title></title>
+		<author></author>
+		<email></email>
+		<date></date>
+		<game>spellfire</game>
+		<format></format>
+		<note></note>
+	</meta>
+	<superzone name="Deck">
+		<card>
+			<name id="006">Dragonsbane</name>
+			<set>Powers</set>
+		</card>
+		<card>
+			<name id="002">Menzoberranzan</name>
+			<set>1st-Ed</set>
+		</card>
+		<card>
+			<name id="091">Flying Kick</name>
+			<set>Runes&amp;Ruins</set>
+		</card>
+		<card>
+			<name id="066">Halfling, Inc.</name>
+			<set>ForgottenRealms</set>
+		</card>
+		<card>
+			<name id="045">Drizzt Do&apos;Urden</name>
+			<set>1st-Ed</set>
+		</card>
+		<card>
+			<name id="095">Kidney Punch</name>
+			<set>Runes&amp;Ruins</set>
+		</card>
+		<card>
+			<name id="077">Eat Dirt!</name>
+			<set>Dungeons</set>
+		</card>
+		<card>
+			<name id="058">Living Wall</name>
+			<set>Powers</set>
+		</card>
+		<card>
+			<name id="041">Roc</name>
+			<set>Artifacts</set>
+		</card>
+		<card>
+			<name id="206">Kevin&apos;s Blade of Doom</name>
+			<set>3rd-Ed</set>
+		</card>
+		<card>
+			<name id="066">Invulnerable Coat of Arnd</name>
+			<set>Runes&amp;Ruins</set>
+		</card>
+		<card>
+			<name id="003">Ruins of Zhentil Keep</name>
+			<set>3rd-Ed</set>
+		</card>
+		<card>
+			<name id="069">Albruin</name>
+			<set>Runes&amp;Ruins</set>
+		</card>
+		<card>
+			<name id="029">Evermeet</name>
+			<set>3rd-Ed</set>
+		</card>
+		<card>
+			<name id="035">Nullification</name>
+			<set>Powers</set>
+		</card>
+		<card>
+			<name id="061">Ring of Winter</name>
+			<set>ForgottenRealms</set>
+		</card>
+		<card>
+			<name id="094">Disarm</name>
+			<set>Runes&amp;Ruins</set>
+		</card>
+		<card>
+			<name id="092">Haymaker</name>
+			<set>Runes&amp;Ruins</set>
+		</card>
+		<card>
+			<name id="092">Cyric</name>
+			<set>ForgottenRealms</set>
+		</card>
+		<card>
+			<name id="097">Princess Alusair</name>
+			<set>ForgottenRealms</set>
+		</card>
+		<card>
+			<name id="098">Headlock</name>
+			<set>Runes&amp;Ruins</set>
+		</card>
+		<card>
+			<name id="089">Helm</name>
+			<set>ForgottenRealms</set>
+		</card>
+		<card>
+			<name id="056">Coming of the Phoenix</name>
+			<set>Runes&amp;Ruins</set>
+		</card>
+		<card>
+			<name id="062">Barbarian Charge!</name>
+			<set>Runes&amp;Ruins</set>
+		</card>
+		<card>
+			<name id="058">Elixir of Life</name>
+			<set>Runes&amp;Ruins</set>
+		</card>
+		<card>
+			<name id="063">Kestrel&apos;s Keep</name>
+			<set>Artifacts</set>
+		</card>
+		<card>
+			<name id="030">Trollmoors, The</name>
+			<set>1st-Ed</set>
+		</card>
+		<card>
+			<name id="038">Ogre, The</name>
+			<set>Dungeons</set>
+		</card>
+		<card>
+			<name id="050">Frostbrand</name>
+			<set>ForgottenRealms</set>
+		</card>
+		<card>
+			<name id="017">Raurin</name>
+			<set>ForgottenRealms</set>
+		</card>
+		<card>
+			<name id="004">Curse of the Azure Bonds</name>
+			<set>ForgottenRealms</set>
+		</card>
+		<card>
+			<name id="410">Labyrinth Map of Shucc, The</name>
+			<set>1st-Ed</set>
+		</card>
+		<card>
+			<name id="096">Bear Hug</name>
+			<set>Runes&amp;Ruins</set>
+		</card>
+		<card>
+			<name id="023">Damara</name>
+			<set>3rd-Ed</set>
+		</card>
+		<card>
+			<name id="093">Uppercut</name>
+			<set>Runes&amp;Ruins</set>
+		</card>
+		<card>
+			<name id="001">Adjatha, the Spell Drinker</name>
+			<set>Powers</set>
+		</card>
+		<card>
+			<name id="055">Crime Lord</name>
+			<set>1st-Ed</set>
+		</card>
+		<card>
+			<name id="032">Rod of Lordly Might</name>
+			<set>Birthright</set>
+		</card>
+		<card>
+			<name id="059">Guenhwyvar</name>
+			<set>ForgottenRealms</set>
+		</card>
+		<card>
+			<name id="078">Vital Blow</name>
+			<set>Dungeons</set>
+		</card>
+		<card>
+			<name id="036">Hidden Village, The</name>
+			<set>Dungeons</set>
+		</card>
+		<card>
+			<name id="039">Wulfgar</name>
+			<set>Runes&amp;Ruins</set>
+		</card>
+		<card>
+			<name id="094">Zaknafein the Weapons Master</name>
+			<set>Underdark</set>
+		</card>
+		<card>
+			<name id="006">City of Phlan, The</name>
+			<set>Runes&amp;Ruins</set>
+		</card>
+		<card>
+			<name id="033">Mulmaster</name>
+			<set>1st-Ed</set>
+		</card>
+		<card>
+			<name id="013">Myth Drannor</name>
+			<set>3rd-Ed</set>
+		</card>
+		<card>
+			<name id="007">Dead Magic Zone</name>
+			<set>ForgottenRealms</set>
+		</card>
+		<card>
+			<name id="097">Knockdown</name>
+			<set>Runes&amp;Ruins</set>
+		</card>
+		<card>
+			<name id="095">Ochimo</name>
+			<set>ForgottenRealms</set>
+		</card>
+		<card>
+			<name id="093">Rod of Shapechange</name>
+			<set>3rd-Ed</set>
+		</card>
+		<card>
+			<name id="017">Girdle of Storm Giant Strength</name>
+			<set>Artifacts</set>
+		</card>
+		<card>
+			<name id="440">King of the Elves, The</name>
+			<set>1st-Ed</set>
+		</card>
+		<card>
+			<name id="079">Supernatural Strength</name>
+			<set>Dungeons</set>
+		</card>
+		<card>
+			<name id="099">Block</name>
+			<set>Runes&amp;Ruins</set>
+		</card>
+		<card>
+			<name id="001">Isle of the Ape</name>
+			<set>Runes&amp;Ruins</set>
+		</card>
+	</superzone>
+	<superzone name="Dungeon">
+	</superzone>
+</deck>

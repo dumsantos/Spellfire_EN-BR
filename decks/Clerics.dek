@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE deck SYSTEM "http://www.lackeyccg.com/deck.dtd">
+<deck version="0.8">
+	<meta>
+		<title>Heroes</title>
+		<author>Andy</author>
+		<email>enter@youremail.com</email>
+		<date>10-14-09</date>
+		<game>spellfire</game>
+		<format></format>
+		<note></note>
+	</meta>
+	<superzone name="Deck">
+		<card>
+			<name id="072">Amulet of Spell Turning</name>
+			<set>Dungeons</set>
+		</card>
+		<card>
+			<name id="002">Forbidden City, The</name>
+			<set>Runes&amp;Ruins</set>
+		</card>
+		<card>
+			<name id="366">Raise Dead</name>
+			<set>3rd-Ed</set>
+		</card>
+		<card>
+			<name id="045">Heal</name>
+			<set>Ravenloft</set>
+		</card>
+		<card>
+			<name id="082">Hypnosnake</name>
+			<set>Runes&amp;Ruins</set>
+		</card>
+		<card>
+			<name id="013">Kozakura</name>
+			<set>ForgottenRealms</set>
+		</card>
+		<card>
+			<name id="084">Adon</name>
+			<set>ForgottenRealms</set>
+		</card>
+		<card>
+			<name id="095">Staff of Striking</name>
+			<set>3rd-Ed</set>
+		</card>
+		<card>
+			<name id="056">Tarokka Deck</name>
+			<set>Ravenloft</set>
+		</card>
+		<card>
+			<name id="028">Creeping Doom</name>
+			<set>ForgottenRealms</set>
+		</card>
+		<card>
+			<name id="073">Flesh Golem</name>
+			<set>Ravenloft</set>
+		</card>
+		<card>
+			<name id="004">White Plume Mountain</name>
+			<set>Runes&amp;Ruins</set>
+		</card>
+		<card>
+			<name id="099">Cataclysm!</name>
+			<set>3rd-Ed</set>
+		</card>
+		<card>
+			<name id="051">White Weird, The</name>
+			<set>Dungeons</set>
+		</card>
+		<card>
+			<name id="187">Nenioc</name>
+			<set>3rd-Ed</set>
+		</card>
+		<card>
+			<name id="080">Shadair Mesker</name>
+			<set>Powers</set>
+		</card>
+		<card>
+			<name id="083">Reflection</name>
+			<set>Dragonlance</set>
+		</card>
+		<card>
+			<name id="065">Plague</name>
+			<set>Dracnomicon</set>
+		</card>
+		<card>
+			<name id="047">Slay Living</name>
+			<set>Runes&amp;Ruins</set>
+		</card>
+		<card>
+			<name id="415">Map to a Mercenary Army</name>
+			<set>1st-Ed</set>
+		</card>
+		<card>
+			<name id="070">Pearl Pegasus</name>
+			<set>Dungeons</set>
+		</card>
+		<card>
+			<name id="025">Complete Surprise</name>
+			<set>Nightstalkers</set>
+		</card>
+		<card>
+			<name id="042">Lady of Fate, Avatar of Istus</name>
+			<set>Powers</set>
+		</card>
+		<card>
+			<name id="065">Flaming Fist</name>
+			<set>ForgottenRealms</set>
+		</card>
+		<card>
+			<name id="087">Shining Lands</name>
+			<set>Artifacts</set>
+		</card>
+		<card>
+			<name id="048">Stasis</name>
+			<set>Powers</set>
+		</card>
+		<card>
+			<name id="050">Conjure Fire Elemental</name>
+			<set>Runes&amp;Ruins</set>
+		</card>
+		<card>
+			<name id="056">Coming of the Phoenix</name>
+			<set>Runes&amp;Ruins</set>
+		</card>
+		<card>
+			<name id="416">Pit Trap!</name>
+			<set>1st-Ed</set>
+		</card>
+		<card>
+			<name id="092">Melt Stone</name>
+			<set>Powers</set>
+		</card>
+		<card>
+			<name id="082">Yagno Petrovna</name>
+			<set>Artifacts</set>
+		</card>
+		<card>
+			<name id="319">Caravan, The</name>
+			<set>3rd-Ed</set>
+		</card>
+		<card>
+			<name id="400">Calm</name>
+			<set>3rd-Ed</set>
+		</card>
+		<card>
+			<name id="039">Forbidden Lore</name>
+			<set>Artifacts</set>
+		</card>
+		<card>
+			<name id="001">Mithas</name>
+			<set>Dragonlance</set>
+		</card>
+		<card>
+			<name id="067">Nemon Hotep</name>
+			<set>Nightstalkers</set>
+		</card>
+		<card>
+			<name id="083">Goldmoon</name>
+			<set>Artifacts</set>
+		</card>
+		<card>
+			<name id="081">Divine Intervention</name>
+			<set>Dragonlance</set>
+		</card>
+		<card>
+			<name id="056">Vorpal Blade</name>
+			<set>ForgottenRealms</set>
+		</card>
+		<card>
+			<name id="030">Cloak of the Gargoyle</name>
+			<set>Underdark</set>
+		</card>
+		<card>
+			<name id="450">Delsenora</name>
+			<set>1st-Ed</set>
+		</card>
+		<card>
+			<name id="456">Halcyon</name>
+			<set>1st-Ed</set>
+		</card>
+		<card>
+			<name id="011">Coral Kingdom, The</name>
+			<set>ForgottenRealms</set>
+		</card>
+		<card>
+			<name id="077">Amarill</name>
+			<set>3rd-Ed</set>
+		</card>
+		<card>
+			<name id="100">Good Fortune</name>
+			<set>3rd-Ed</set>
+		</card>
+		<card>
+			<name id="062">Confusion</name>
+			<set>Dracnomicon</set>
+		</card>
+		<card>
+			<name id="124">Temple of Elemental Evil</name>
+			<set>3rd-Ed</set>
+		</card>
+		<card>
+			<name id="002">Menzoberranzan</name>
+			<set>3rd-Ed</set>
+		</card>
+		<card>
+			<name id="010">Hidden Shrine of Tamoachan, The</name>
+			<set>Runes&amp;Ruins</set>
+		</card>
+		<card>
+			<name id="003">Caer Allison</name>
+			<set>ForgottenRealms</set>
+		</card>
+		<card>
+			<name id="027">Rod of 7 Parts, part 7</name>
+			<set>Artifacts</set>
+		</card>
+		<card>
+			<name id="130">Theocracy of the Pale</name>
+			<set>1st-Ed</set>
+		</card>
+		<card>
+			<name id="438">Starshine</name>
+			<set>1st-Ed</set>
+		</card>
+		<card>
+			<name id="045">Tyvorg the Frost Giant</name>
+			<set>Dungeons</set>
+		</card>
+		<card>
+			<name id="035">Conjure Grave Elemental</name>
+			<set>Ravenloft</set>
+		</card>
+	</superzone>
+	<superzone name="Dungeon">
+		<card>
+			<name id="016">Purveyor of Events</name>
+			<set>Dungeons</set>
+		</card>
+	</superzone>
+</deck>

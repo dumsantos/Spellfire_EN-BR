@@ -1,0 +1,62 @@
+<deck version="0.8">
+	<meta>
+		<game>Spellfire</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="124">Temple of Elemental Evil</name><set>1st-Ed</set></card>
+		<card><name id="012">The Great Rift</name><set>3rd-Ed</set></card>
+		<card><name id="017">Sword Coast</name><set>3rd-Ed</set></card>
+		<card><name id="012">Spine of Taladas</name><set>Dragonlance</set></card>
+		<card><name id="003">Spiderfell, The</name><set>Birthright</set></card>
+		<card><name id="007">Tepest</name><set>Ravenloft</set></card>
+		<card><name id="130">Theocracy of the Pale</name><set>1st-Ed</set></card>
+		<card><name id="011">Tower of the Sword Mage</name><set>Birthright</set></card>
+		<card><name id="030">Trollmoors, The</name><set>1st-Ed</set></card>
+		<card><name id="007">Tuarhievel</name><set>Birthright</set></card>
+		<card><name id="100">Good Fortune</name><set>1st-Ed</set></card>
+		<card><name id="203">Siege</name><set>1st-Ed</set></card>
+		<card><name id="150">Siege!</name><set>3rd-Ed</set></card>
+		<card><name id="400">Calm</name><set>3rd-Ed</set></card>
+		<card><name id="319">Caravan, The</name><set>3rd-Ed</set></card>
+		<card><name id="099">Cataclysm!</name><set>3rd-Ed</set></card>
+		<card><name id="071">Clockwork Ogre</name><set>Dungeons</set></card>
+		<card><name id="028">Bag of Holding</name><set>Artifacts</set></card>
+		<card><name id="419">Ego Coin</name><set>1st-Ed</set></card>
+		<card><name id="070">Pearl Pegasus</name><set>Dungeons</set></card>
+		<card><name id="257">Gladiators</name><set>3rd-Ed</set></card>
+		<card><name id="082">Loric the Fence</name><set>Nightstalkers</set></card>
+		<card><name id="077">Amarill</name><set>3rd-Ed</set></card>
+		<card><name id="045">Drizzt Do&apos;Urden</name><set>3rd-Ed</set></card>
+		<card><name id="392">Death Spell</name><set>1st-Ed</set></card>
+		<card><name id="358">Dispel Magic</name><set>3rd-Ed</set></card>
+		<card><name id="348">Fear</name><set>3rd-Ed</set></card>
+		<card><name id="333">Paralyze</name><set>1st-Ed</set></card>
+		<card><name id="030">Dargent, Silver Dragon</name><set>Dragonlance</set></card>
+		<card><name id="088">Red Dragon</name><set>Runes&amp;Ruins</set></card>
+		<card><name id="323">Outcast, The</name><set>3rd-Ed</set></card>
+		<card><name id="039">Tasslehoff Burrfoot</name><set>Dragonlance</set></card>
+		<card><name id="261">Agis</name><set>3rd-Ed</set></card>
+		<card><name id="095">Sir Edmund Bloodsworth</name><set>Ravenloft</set></card>
+		<card><name id="304">Dragon King</name><set>1st-Ed</set></card>
+		<card><name id="451">Gib Evets</name><set>1st-Ed</set></card>
+		<card><name id="167">Iuz the Evil</name><set>1st-Ed</set></card>
+		<card><name id="029">Maldraedior, Great Blue Wyrm</name><set>Dracnomicon</set></card>
+		<card><name id="080">Shadair Mesker</name><set>Powers</set></card>
+		<card><name id="034">Rauglothgor</name><set>Dracnomicon</set></card>
+		<card><name id="166">Lolth, the Spider Queen</name><set>3rd-Ed</set></card>
+		<card><name id="020">Seluna Darkenstar</name><set>Powers</set></card>
+		<card><name id="037">Greyhawk Dragon</name><set>Dracnomicon</set></card>
+		<card><name id="391">Death Fog</name><set>3rd-Ed</set></card>
+		<card><name id="397">Finger of Death</name><set>3rd-Ed</set></card>
+		<card><name id="332">Lightning Bolt</name><set>3rd-Ed</set></card>
+		<card><name id="252">Assassins</name><set>3rd-Ed</set></card>
+		<card><name id="077">Gnasher</name><set>Underdark</set></card>
+		<card><name id="061">Myrmidons</name><set>3rd-Ed</set></card>
+		<card><name id="082">Dragonne</name><set>Dracnomicon</set></card>
+		<card><name id="412">Scroll of 7 Leagues</name><set>1st-Ed</set></card>
+		<card><name id="408">Living Scroll</name><set>1st-Ed</set></card>
+		<card><name id="046">Wish</name><set>Forgotten</set></card>
+		<card><name id="043">Limited Wish</name><set>Forgotten</set></card>
+		<card><name id="034">Ressurection</name><set>Forgotten</set></card>
+	</superzone>
+</deck>

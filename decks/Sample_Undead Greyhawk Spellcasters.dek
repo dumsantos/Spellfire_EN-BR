@@ -1,0 +1,28 @@
+<deck version="0.8">
+	<meta>
+		<game>spellfire</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="051">Book of the Dead</name><set>Nightstalkers</set></card>
+		<card><name id="462">Throne of Bone</name><set>4th-Ed</set></card>
+		<card><name id="019">Spells from the Grave</name><set>Dungeons</set></card>
+		<card><name id="048">A Good Defense</name><set>Inquisition</set></card>
+		<card><name id="155">Lich Conclave</name><set>3rd-Ed</set></card>
+		<card><name id="488">Iuz, Avatar of Evil</name><set>4th-Ed</set></card>
+		<card><name id="041">Bonemaster, Avatar of Nerull</name><set>Powers</set></card>
+		<card><name id="069">Winslow the Lich</name><set>Nightstalkers</set></card>
+		<card><name id="121">Gib Irod</name><set>Nightstalkers</set></card>
+		<card><name id="218">Johydee's Mask</name><set>1st-Ed</set></card>
+		<card><name id="452">Codex of the Infinite Planes</name><set>4th-Ed</set></card>
+		<card><name id="071">Haven of the Undead</name><set>4th-Ed</set></card>
+		<card><name id="199">Ren's Crystal Ball</name><set>1st-Ed</set></card>
+		<card><name id="053">Trumpet of Doom</name><set>Nightstalkers</set></card>
+		<card><name id="074">Sure Thing, A</name><set>Nightstalkers</set></card>
+		<card><name id="056">Vorpal Blade</name><set>Forgotten</set></card>
+		<card><name id="110">Playing to Lose</name><set>Dracnomicon</set></card>
+		<card><name id="073">Negative Planar Energy</name><set>Nightstalkers</set></card>
+		<card><name id="001">Wand of Orcus</name><set>Artifacts</set></card>
+		<card><name id="025">Divination</name><set>Chaos</set></card>
+		<card><name id="107">Undead Regeneration</name><set>Runes&Ruins</set></card>
+	</superzone>
+</deck>

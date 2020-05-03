@@ -1,0 +1,55 @@
+<deck version="0.8">
+	<meta>
+		<game>spellfire</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="015">Enchanted Land, The</name><set>Dungeons</set></card>
+		<card><name id="004">Bipolar Triumvirate, The</name><set>Underdark</set></card>
+		<card><name id="009">Demonweb Pits</name><set>Runes&amp;Ruins</set></card>
+		<card><name id="117">Horned Society, The</name><set>3rd-Ed</set></card>
+		<card><name id="002">Menzoberranzan</name><set>3rd-Ed</set></card>
+		<card><name id="120">Nyrond</name><set>3rd-Ed</set></card>
+		<card><name id="126">Perrenland</name><set>3rd-Ed</set></card>
+		<card><name id="135">Scarlet Brotherhood, The</name><set>3rd-Ed</set></card>
+		<card><name id="003">Silvanesti</name><set>Dragonlance</set></card>
+		<card><name id="006">Tripolar Triumvirate, The</name><set>Underdark</set></card>
+		<card><name id="007">Tuarhievel</name><set>Birthright</set></card>
+		<card><name id="001">UnderAthas</name><set>Underdark</set></card>
+		<card><name id="008">UnderCerilia</name><set>Nightstalkers</set></card>
+		<card><name id="007">UnderToril</name><set>Underdark</set></card>
+		<card><name id="002">Unipolar Triumvirate, The</name><set>Underdark</set></card>
+		<card><name id="014">Assassin&apos;s Guild</name><set>Nightstalkers</set></card>
+		<card><name id="399">Ancient Curse</name><set>1st-Ed</set></card>
+		<card><name id="204">Bribery!</name><set>3rd-Ed</set></card>
+		<card><name id="400">Calm</name><set>3rd-Ed</set></card>
+		<card><name id="004">Curse of the Azure Bonds</name><set>Forgotten Realms</set></card>
+		<card><name id="186">Fairy Madness</name><set>1st-Ed</set></card>
+		<card><name id="023">Forced Revolt</name><set>Dracnomicon</set></card>
+		<card><name id="202">Slave Revolt</name><set>3rd-Ed</set></card>
+		<card><name id="054">Aquatic Elf</name><set>Powers</set></card>
+		<card><name id="098">Aquilla</name><set>Underdark</set></card>
+		<card><name id="045">Drizzt Do&apos;Urden</name><set>3rd-Ed</set></card>
+		<card><name id="071">Drow Matron</name><set>3rd-Ed</set></card>
+		<card><name id="100">Gwenyth the Bard</name><set>Birthright</set></card>
+		<card><name id="079">Hornung the Anarch</name><set>Artifacts</set></card>
+		<card><name id="038">Jamlin</name><set>Nightstalkers</set></card>
+		<card><name id="092">Jarlaxle</name><set>Underdark</set></card>
+		<card><name id="171">Kiara</name><set>3rd-Ed</set></card>
+		<card><name id="166">Lolth, the Spider Queen</name><set>3rd-Ed</set></card>
+		<card><name id="163">Tysiln San</name><set>3rd-Ed</set></card>
+		<card><name id="043">Uldo Dracobane</name><set>Nightstalkers</set></card>
+		<card><name id="263">Vaerhirmana</name><set>3rd-Ed</set></card>
+		<card><name id="094">Zaknafein the Weapons Master</name><set>Underdark</set></card>
+		<card><name id="395">Banishment</name><set>3rd-Ed</set></card>
+		<card><name id="391">Death Fog</name><set>3rd-Ed</set></card>
+		<card><name id="392">Death Spell</name><set>3rd-Ed</set></card>
+		<card><name id="348">Fear</name><set>3rd-Ed</set></card>
+		<card><name id="061">Otto&apos;s Irresistible Dance</name><set>Birthright</set></card>
+		<card><name id="271">Ashathra</name><set>3rd-Ed</set></card>
+		<card><name id="252">Assassins</name><set>3rd-Ed</set></card>
+		<card><name id="050">Aurak Draconians</name><set>Dragonlance</set></card>
+		<card><name id="322">Elven Archer</name><set>3rd-Ed</set></card>
+		<card><name id="274">Galek</name><set>3rd-Ed</set></card>
+		<card><name id="269">Rowan</name><set>3rd-Ed</set></card>
+	</superzone>
+</deck>

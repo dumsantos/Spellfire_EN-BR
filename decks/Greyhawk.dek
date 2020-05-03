@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE deck SYSTEM "http://www.lackeyccg.com/deck.dtd">
+<deck version="0.8">
+	<meta>
+		<title>Heroes</title>
+		<author>Andy</author>
+		<email>enter@youremail.com</email>
+		<date>10-14-09</date>
+		<game>spellfire</game>
+		<format></format>
+		<note></note>
+	</meta>
+	<superzone name="Deck">
+		<card>
+			<name id="124">Temple of Elemental Evil</name>
+			<set>3rd-Ed</set>
+		</card>
+		<card>
+			<name id="149">Fortification</name>
+			<set>1st-Ed</set>
+		</card>
+		<card>
+			<name id="100">Good Fortune</name>
+			<set>3rd-Ed</set>
+		</card>
+		<card>
+			<name id="202">Slave Revolt</name>
+			<set>3rd-Ed</set>
+		</card>
+		<card>
+			<name id="108">Labor of Legend</name>
+			<set>3rd-Ed</set>
+		</card>
+		<card>
+			<name id="125">Greyhawk Ruins</name>
+			<set>1st-Ed</set>
+		</card>
+		<card>
+			<name id="014">Assassin&apos;s Guild</name>
+			<set>Nightstalkers</set>
+		</card>
+		<card>
+			<name id="135">Scarlet Brotherhood, The</name>
+			<set>1st-Ed</set>
+		</card>
+		<card>
+			<name id="017">Cavern of the Gods</name>
+			<set>Underdark</set>
+		</card>
+		<card>
+			<name id="139">Duchy of Tenh</name>
+			<set>1st-Ed</set>
+		</card>
+		<card>
+			<name id="036">Grimslade the Gray</name>
+			<set>Runes&amp;Ruins</set>
+		</card>
+		<card>
+			<name id="037">Greyhawk Dragon</name>
+			<set>Dracnomicon</set>
+		</card>
+		<card>
+			<name id="391">Death Fog</name>
+			<set>1st-Ed</set>
+		</card>
+		<card>
+			<name id="346">Dispel Magic</name>
+			<set>3rd-Ed</set>
+		</card>
+		<card>
+			<name id="398">Spell Turning</name>
+			<set>3rd-Ed</set>
+		</card>
+		<card>
+			<name id="216">Ancient Arms of Shield Lands</name>
+			<set>3rd-Ed</set>
+		</card>
+		<card>
+			<name id="106">Spell of Formless Horror</name>
+			<set>3rd-Ed</set>
+		</card>
+		<card>
+			<name id="166">Lolth, the Spider Queen</name>
+			<set>1st-Ed</set>
+		</card>
+		<card>
+			<name id="152">Codex of the Infinite Planes</name>
+			<set>3rd-Ed</set>
+		</card>
+		<card>
+			<name id="400">Calm</name>
+			<set>3rd-Ed</set>
+		</card>
+		<card>
+			<name id="043">Limited Wish</name>
+			<set>ForgottenRealms</set>
+		</card>
+		<card>
+			<name id="028">Bigby the Great</name>
+			<set>Runes&amp;Ruins</set>
+		</card>
+		<card>
+			<name id="287">Cha&apos;thrang</name>
+			<set>1st-Ed</set>
+		</card>
+		<card>
+			<name id="093">Ellorelloran</name>
+			<set>Underdark</set>
+		</card>
+		<card>
+			<name id="029">Earthquake</name>
+			<set>ForgottenRealms</set>
+		</card>
+		<card>
+			<name id="061">Otto&apos;s Irresistible Dance</name>
+			<set>Birthright</set>
+		</card>
+		<card>
+			<name id="155">Lich Conclave</name>
+			<set>3rd-Ed</set>
+		</card>
+		<card>
+			<name id="203">Bruce&apos;s Revenge</name>
+			<set>3rd-Ed</set>
+		</card>
+		<card>
+			<name id="096">Horrors of the Abyss</name>
+			<set>3rd-Ed</set>
+		</card>
+		<card>
+			<name id="374">Blink</name>
+			<set>3rd-Ed</set>
+		</card>
+		<card>
+			<name id="399">Ancient Curse</name>
+			<set>1st-Ed</set>
+		</card>
+		<card>
+			<name id="150">Siege!</name>
+			<set>1st-Ed</set>
+		</card>
+		<card>
+			<name id="154">Hordes of Castle Greyhawk</name>
+			<set>1st-Ed</set>
+		</card>
+		<card>
+			<name id="046">Wish</name>
+			<set>ForgottenRealms</set>
+		</card>
+		<card>
+			<name id="028">Creeping Doom</name>
+			<set>ForgottenRealms</set>
+		</card>
+		<card>
+			<name id="081">Erital Kaan-Ipzirel</name>
+			<set>Artifacts</set>
+		</card>
+		<card>
+			<name id="001">Vast Swamp, The</name>
+			<set>Nightstalkers</set>
+		</card>
+		<card>
+			<name id="319">Caravan, The</name>
+			<set>3rd-Ed</set>
+		</card>
+		<card>
+			<name id="079">Hornung the Anarch</name>
+			<set>Artifacts</set>
+		</card>
+		<card>
+			<name id="058">Battering Ram</name>
+			<set>Dungeons</set>
+		</card>
+		<card>
+			<name id="059">Raze</name>
+			<set>Birthright</set>
+		</card>
+		<card>
+			<name id="044">Time Stop</name>
+			<set>ForgottenRealms</set>
+		</card>
+		<card>
+			<name id="167">Iuz the Evil</name>
+			<set>1st-Ed</set>
+		</card>
+		<card>
+			<name id="288">Spirit of the Land</name>
+			<set>1st-Ed</set>
+		</card>
+		<card>
+			<name id="063">Drawmij&apos;s Instant Summons</name>
+			<set>Birthright</set>
+		</card>
+		<card>
+			<name id="195">Treants of Grandwood</name>
+			<set>3rd-Ed</set>
+		</card>
+		<card>
+			<name id="117">Horned Society, The</name>
+			<set>1st-Ed</set>
+		</card>
+		<card>
+			<name id="026">Tenser&apos;s Castle</name>
+			<set>Runes&amp;Ruins</set>
+		</card>
+		<card>
+			<name id="126">Perrenland</name>
+			<set>1st-Ed</set>
+		</card>
+		<card>
+			<name id="138">County of Sunndi</name>
+			<set>3rd-Ed</set>
+		</card>
+		<card>
+			<name id="112">Lands of Iuz, The</name>
+			<set>1st-Ed</set>
+		</card>
+		<card>
+			<name id="111">Free City of Greyhawk</name>
+			<set>3rd-Ed</set>
+		</card>
+		<card>
+			<name id="031">Border Garrison</name>
+			<set>Dungeons</set>
+		</card>
+		<card>
+			<name id="134">Bissel</name>
+			<set>1st-Ed</set>
+		</card>
+		<card>
+			<name id="134">Hookhill</name>
+			<set>3rd-Ed</set>
+		</card>
+	</superzone>
+	<superzone name="Dungeon">
+		<card>
+			<name id="006">Labyrinth of Castle Greyhawk</name>
+			<set>Dungeons</set>
+		</card>
+	</superzone>
+</deck>

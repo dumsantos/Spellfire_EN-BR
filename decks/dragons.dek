@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE deck SYSTEM "http://www.lackeyccg.com/deck.dtd">
+<deck version="0.8">
+	<meta>
+		<title>Heroes</title>
+		<author>Andy</author>
+		<email>enter@youremail.com</email>
+		<date>10-14-09</date>
+		<game>spellfire</game>
+		<format></format>
+		<note></note>
+	</meta>
+	<superzone name="Deck">
+		<card>
+			<name id="093">Bite</name>
+			<set>Dracnomicon</set>
+		</card>
+		<card>
+			<name id="123">Ancient Dragon Magic</name>
+			<set>Dracnomicon</set>
+		</card>
+		<card>
+			<name id="124">Underground Lair</name>
+			<set>Dracnomicon</set>
+		</card>
+		<card>
+			<name id="068">Amulet of the Dragon King</name>
+			<set>Dungeons</set>
+		</card>
+		<card>
+			<name id="033">Zepherwind</name>
+			<set>Powers</set>
+		</card>
+		<card>
+			<name id="050">Aurak Draconians</name>
+			<set>Dragonlance</set>
+		</card>
+		<card>
+			<name id="046">Wish</name>
+			<set>ForgottenRealms</set>
+		</card>
+		<card>
+			<name id="035">Pyrite, the Ancient Gold Dragon</name>
+			<set>Dragonlance</set>
+		</card>
+		<card>
+			<name id="004">Dragonspine Mountains</name>
+			<set>Dracnomicon</set>
+		</card>
+		<card>
+			<name id="076">Foulwing</name>
+			<set>Underdark</set>
+		</card>
+		<card>
+			<name id="020">Dragon Raid!</name>
+			<set>Dracnomicon</set>
+		</card>
+		<card>
+			<name id="047">Dragon&apos;s Calm</name>
+			<set>Dracnomicon</set>
+		</card>
+		<card>
+			<name id="093">Ur Draxa</name>
+			<set>Artifacts</set>
+		</card>
+		<card>
+			<name id="086">Council Aerie</name>
+			<set>Artifacts</set>
+		</card>
+		<card>
+			<name id="082">Dragonne</name>
+			<set>Dracnomicon</set>
+		</card>
+		<card>
+			<name id="091">Claw</name>
+			<set>Dracnomicon</set>
+		</card>
+		<card>
+			<name id="095">Breath Weapon II</name>
+			<set>Dracnomicon</set>
+		</card>
+		<card>
+			<name id="086">Amulet of the Wyrm</name>
+			<set>Dracnomicon</set>
+		</card>
+		<card>
+			<name id="029">Maldraedior, Great Blue Wyrm</name>
+			<set>Dracnomicon</set>
+		</card>
+		<card>
+			<name id="457">Stryck</name>
+			<set>1st-Ed</set>
+		</card>
+		<card>
+			<name id="119">Sterich</name>
+			<set>3rd-Ed</set>
+		</card>
+		<card>
+			<name id="027">Flame</name>
+			<set>Dracnomicon</set>
+		</card>
+		<card>
+			<name id="042">Verminaard the Dragonmaster</name>
+			<set>Dracnomicon</set>
+		</card>
+		<card>
+			<name id="017">Dragon Magic</name>
+			<set>Dracnomicon</set>
+		</card>
+		<card>
+			<name id="049">Kapak Draconians</name>
+			<set>Dragonlance</set>
+		</card>
+		<card>
+			<name id="032">Flashburn</name>
+			<set>Dracnomicon</set>
+		</card>
+		<card>
+			<name id="400">Calm</name>
+			<set>3rd-Ed</set>
+		</card>
+		<card>
+			<name id="049">Venomdust</name>
+			<set>Dracnomicon</set>
+		</card>
+		<card>
+			<name id="088">Red Dragon</name>
+			<set>Runes&amp;Ruins</set>
+		</card>
+		<card>
+			<name id="088">Orb of the Eternal Dragon</name>
+			<set>Dracnomicon</set>
+		</card>
+		<card>
+			<name id="089">Hell Furnaces</name>
+			<set>Artifacts</set>
+		</card>
+		<card>
+			<name id="051">Dragon&apos;s Death Door</name>
+			<set>Dracnomicon</set>
+		</card>
+		<card>
+			<name id="096">Breath Weapon III</name>
+			<set>Dracnomicon</set>
+		</card>
+		<card>
+			<name id="045">Brine Dragon</name>
+			<set>Dragonlance</set>
+		</card>
+		<card>
+			<name id="188">Young Gold Dragon</name>
+			<set>3rd-Ed</set>
+		</card>
+		<card>
+			<name id="008">Tomb of Horrors</name>
+			<set>Runes&amp;Ruins</set>
+		</card>
+		<card>
+			<name id="028">Dragon&apos;s Refuge, The</name>
+			<set>Dungeons</set>
+		</card>
+		<card>
+			<name id="074">Pseudodragon</name>
+			<set>ForgottenRealms</set>
+		</card>
+		<card>
+			<name id="005">Griff Mountains</name>
+			<set>Dracnomicon</set>
+		</card>
+		<card>
+			<name id="054">Dragon Mark</name>
+			<set>Dracnomicon</set>
+		</card>
+		<card>
+			<name id="025">Blessing of Zorquan</name>
+			<set>Dracnomicon</set>
+		</card>
+		<card>
+			<name id="424">Orb of Green Dragonkind</name>
+			<set>1st-Ed</set>
+		</card>
+		<card>
+			<name id="048">Sivak Draconians</name>
+			<set>Dragonlance</set>
+		</card>
+		<card>
+			<name id="305">Borys the Dragon</name>
+			<set>3rd-Ed</set>
+		</card>
+		<card>
+			<name id="007">Mount Nevermind</name>
+			<set>Dracnomicon</set>
+		</card>
+		<card>
+			<name id="446">Dagaronzie, Green Dragon</name>
+			<set>1st-Ed</set>
+		</card>
+		<card>
+			<name id="078">Supernatural Strength</name>
+			<set>Dungeons</set>
+		</card>
+		<card>
+			<name id="021">Dragon Fear</name>
+			<set>Dracnomicon</set>
+		</card>
+		<card>
+			<name id="097">Bronze Dragons</name>
+			<set>Dragonlance</set>
+		</card>
+		<card>
+			<name id="044">Time Stop</name>
+			<set>ForgottenRealms</set>
+		</card>
+		<card>
+			<name id="448">Dragon Rage</name>
+			<set>1st-Ed</set>
+		</card>
+		<card>
+			<name id="084">Firedrake</name>
+			<set>Dracnomicon</set>
+		</card>
+		<card>
+			<name id="018">Dragon&apos;s Graveyard</name>
+			<set>Dracnomicon</set>
+		</card>
+		<card>
+			<name id="016">Council of Wyrms</name>
+			<set>Dracnomicon</set>
+		</card>
+		<card>
+			<name id="101">T&apos;char, Dragon of Flame</name>
+			<set>Dracnomicon</set>
+		</card>
+	</superzone>
+	<superzone name="Dungeon">
+	</superzone>
+</deck>

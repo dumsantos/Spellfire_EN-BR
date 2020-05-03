@@ -110,6 +110,7 @@ plugins/Spellfire_EN-BR/packs/packdefinitions1.xml	https://raw.githubusercontent
 plugins/Spellfire_EN-BR/packs/samplebooster.jpg	https://raw.githubusercontent.com/dumsantos/Spellfire_EN-BR/master/packs/samplebooster.jpg	64009
 
 CardGeneralURLs:
+plugins/Spellfire_EN-BR/sets/setimages	http://www.digitalad.com.br/Spellfire/setimages/
 CardImageURLs:	
 1ST/001.jpg	http://saboti.de/lackeyccg/spellfire/sets/setimages/1ST/001.jpg
 1ST/002.jpg	http://saboti.de/lackeyccg/spellfire/sets/setimages/1ST/002.jpg

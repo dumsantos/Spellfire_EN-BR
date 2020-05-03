@@ -110,7 +110,4 @@ plugins/Spellfire_EN-BR/packs/packdefinitions1.xml	https://raw.githubusercontent
 plugins/Spellfire_EN-BR/packs/samplebooster.jpg	https://raw.githubusercontent.com/dumsantos/Spellfire_EN-BR/master/packs/samplebooster.jpg	64009
 
 CardGeneralURLs:
-https://raw.githubusercontent.com/dumsantos/Spellfire_EN-BR/master/sets/setimages/1st-Ed/
-https://raw.githubusercontent.com/dumsantos/Spellfire_EN-BR/master/sets/setimages/2nd-Ed/
-https://raw.githubusercontent.com/dumsantos/Spellfire_EN-BR/master/sets/setimages/3rd-Ed/
-https://raw.githubusercontent.com/dumsantos/Spellfire_EN-BR/master/sets/setimages/4th-Ed/
+https://raw.githubusercontent.com/dumsantos/Spellfire_EN-BR/master/sets/setimages/

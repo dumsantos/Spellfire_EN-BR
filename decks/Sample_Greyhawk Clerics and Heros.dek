@@ -1,6 +1,6 @@
 <deck version="0.8">
 	<meta>
-		<game>spellfire</game>
+		<game>Spellfire_EN-BR</game>
 	</meta>
 	<superzone name="Deck">
 		<card><name id="044">Romeis Gianthammer</name><set>Conquest</set></card>
@@ -8,7 +8,7 @@
 		<card><name id="452">Codex of the Infinite Planes</name><set>4th-Ed</set></card>
 		<card><name id="025">Jerome Kazinskaia</name><set>Inquisition</set></card>
 		<card><name id="400">Dispel</name><set>4th-Ed</set></card>
-		<card><name id="048">Intercession</name><set>Runes&Ruins</set></card>
+		<card><name id="048">Intercession</name><set>Runes&amp;Ruins</set></card>
 		<card><name id="034">Ressurection</name><set>Forgotten</set></card>
 		<card><name id="081">Erital Kaan-Ipzirel</name><set>Artifacts</set></card>
 		<card><name id="042">Lady of Fate, Avatar of Istus</name><set>Powers</set></card>
@@ -32,13 +32,12 @@
 		<card><name id="134">Hookhill</name><set>3rd-Ed</set></card>
 		<card><name id="136">Iron Hills</name><set>3rd-Ed</set></card>
 		<card><name id="056">Mindkiller</name><set>Underdark</set></card>
-		<card><name id="218">Johydee's Mask</name><set>1st-Ed</set></card>
 		<card><name id="048">A Good Defense</name><set>Inquisition</set></card>
 		<card><name id="054">Gib Remuab, the Chase Hunter</name><set>Conquest</set></card>
 		<card><name id="257">Hettman Tsurin</name><set>4th-Ed</set></card>
 		<card><name id="203">Siege</name><set>1st-Ed</set></card>
 		<card><name id="213">Barbarian Raiders</name><set>1st-Ed</set></card>
-		<card><name id="213">Barbarian's Revenge!, The</name><set>3rd-Ed</set></card>
+		<card><name id="213">Barbarian&apos;s Revenge!, The</name><set>3rd-Ed</set></card>
 		<card><name id="216">Arms of Shield Lands</name><set>1st-Ed</set></card>
 		<card><name id="123">Siege!</name><set>4th-Ed</set></card>
 		<card><name id="101">Thrice Hearty Cup of Balder the Red</name><set>Forgotten</set></card>
@@ -56,15 +55,9 @@
 		<card><name id="055">Boiling Oil</name><set>Dungeons</set></card>
 		<card><name id="023">Karistyne</name><set>Inquisition</set></card>
 		<card><name id="284">Nenioc</name><set>4th-Ed</set></card>
-		<card><name id="047">Slay Living</name><set>Runes&Ruins</set></card>
+		<card><name id="047">Slay Living</name><set>Runes&amp;Ruins</set></card>
 		<card><name id="001">Tarrasque</name><set>Forgotten</set></card>
 		<card><name id="032">Gib Ergo</name><set>Inquisition</set></card>
-		<card><name id="119">Oogly the Half-Orc</name><set>Underdark</set></card>
-		<card><name id="019">Aramil of Tusmit</name><set>Inquisition</set></card>
-		<card><name id="012">Kelsur Brighteye</name><set>Powers</set></card>
-		<card><name id="028">Bigby the Great</name><set>Runes&Ruins</set></card>
-		<card><name id="039">Jallazari Sallavarian</name><set>Inquisition</set></card>
-		<card><name id="037">Otiluke</name><set>Inquisition</set></card>
-		<card><name id="119">Rary's Apprentice</name><set>Dungeons</set></card>
+		<card><name id="119">Rary&apos;s Apprentice</name><set>Dungeons</set></card>
 	</superzone>
 </deck>

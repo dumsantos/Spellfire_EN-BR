@@ -1,6 +1,6 @@
 <deck version="0.8">
 	<meta>
-		<game>spellfire</game>
+		<game>Spellfire_EN-BR</game>
 	</meta>
 	<superzone name="Deck">
 		<card><name id="109">Tantelear, The</name><set>Powers</set></card>
@@ -18,7 +18,6 @@
 		<card><name id="140">Hurricane!</name><set>4th-Ed</set></card>
 		<card><name id="102">Cold Cup of Calamity</name><set>Forgotten</set></card>
 		<card><name id="043">The Gathering</name><set>Inquisition</set></card>
-		<card><name id="011">Pit of the Mind Lord</name><set>Dungeons</set></card>
 		<card><name id="019">Domination</name><set>Conquest</set></card>
 		<card><name id="017">Raise!</name><set>Conquest</set></card>
 		<card><name id="065">Mind Alteration</name><set>Millenium</set></card>
@@ -44,7 +43,7 @@
 		<card><name id="112">Apple of His Eye</name><set>Forgotten</set></card>
 		<card><name id="116">Antimagic Cloud</name><set>Powers</set></card>
 		<card><name id="067">Combat Mind</name><set>Dracnomicon</set></card>
-		<card><name id="116">Gib Kcir</name><set>Runes&Ruins</set></card>
+		<card><name id="116">Gib Kcir</name><set>Runes&amp;Ruins</set></card>
 		<card><name id="333">Minerva</name><set>4th-Ed</set></card>
 		<card><name id="012">Castle Moovania</name><set>Inquisition</set></card>
 		<card><name id="050">Cariele</name><set>4th-Ed</set></card>
@@ -53,18 +52,14 @@
 		<card><name id="072">Daydream</name><set>Dracnomicon</set></card>
 		<card><name id="400">Calm</name><set>1st-Ed</set></card>
 		<card><name id="137">Deflection</name><set>4th-Ed</set></card>
-		<card><name id="067">Ogre's Horned Helm</name><set>Inquisition</set></card>
+		<card><name id="067">Ogre&apos;s Horned Helm</name><set>Inquisition</set></card>
 		<card><name id="064">Mistress of Destruction</name><set>Conquest</set></card>
-		<card><name id="340">Kai'Rik'Tik</name><set>4th-Ed</set></card>
+		<card><name id="340">Kai&apos;Rik&apos;Tik</name><set>4th-Ed</set></card>
 		<card><name id="422">Gatekeeper</name><set>1st-Ed</set></card>
-		<card><name id="125">Mad Scientist's Laboratory</name><set>Nightstalkers</set></card>
+		<card><name id="125">Mad Scientist&apos;s Laboratory</name><set>Nightstalkers</set></card>
 		<card><name id="028">Haunted Hall of Eveningstar</name><set>1st-Ed</set></card>
-		<card><name id="101">T'char, Dragon of Flame</name><set>Dracnomicon</set></card>
-		<card><name id="028">Know What You Are Hiding!!!</name><set>Chaos</set></card>
-		<card><name id="070">Awe</name><set>Millenium</set></card>
-		<card><name id="213">Barbarian Raiders</name><set>1st-Ed</set></card>
-		<card><name id="203">Siege</name><set>1st-Ed</set></card>
-		<card><name id="046">An Eye for an Eye!</name><set>Inquisition</set></card>
-		<card><name id="007">Pirate</name><set>Chaos</set></card>
+	</superzone>
+	<superzone name="Dungeon">
+		<card><name id="011">Pit of the Mind Lord</name><set>Dungeons</set></card>
 	</superzone>
 </deck>

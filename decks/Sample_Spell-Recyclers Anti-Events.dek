@@ -59,12 +59,5 @@
 		<card><name id="032">Ur Draxa</name><set>4th-Ed</set></card>
 		<card><name id="009">Mount Deismaar</name><set>Dracnomicon</set></card>
 		<card><name id="039">Dragon's Crown Mountain</name><set>4th-Ed</set></card>
-		<card><name id="017">Saldon the White</name><set>Inquisition</set></card>
-		<card><name id="039">Tasslehoff Burrfoot</name><set>Dragonlance</set></card>
-		<card><name id="456">Halcyon</name><set>1st-Ed</set></card>
-		<card><name id="074">Recall</name><set>Dragonlance</set></card>
-		<card><name id="104">Lost Treasure</name><set>Runes&Ruins</set></card>
-		<card><name id="068">Orb of Delight</name><set>Inquisition</set></card>
-		<card><name id="037">Greyhawk Dragon</name><set>Dracnomicon</set></card>
 	</superzone>
 </deck>

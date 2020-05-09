@@ -59,12 +59,5 @@
 		<card><name id="043">The Gathering</name><set>Inquisition</set></card>
 		<card><name id="043">Dispel Evil</name><set>Millenium</set></card>
 		<card><name id="100">Deja Vu</name><set>Artifacts</set></card>
-		<card><name id="362">Sunray</name><set>1st-Ed</set></card>
-		<card><name id="026">Kinetic Armor</name><set>Conquest</set></card>
-		<card><name id="121">Sword and Helm of Garion, The</name><set>Underdark</set></card>
-		<card><name id="030">Ring of Human Influence</name><set>Birthright</set></card>
-		<card><name id="081">Divine Intervention</name><set>Dragonlance</set></card>
-		<card><name id="111">Forbiddance</name><set>Artifacts</set></card>
-		<card><name id="056">Blamblower</name><set>Dragonlance</set></card>
 	</superzone>
 </deck>

@@ -59,12 +59,5 @@
 		<card><name id="047">Insanely Good Fortune</name><set>Millenium</set></card>
 		<card><name id="078">Slap!</name><set>Inquisition</set></card>
 		<card><name id="043">The Gathering</name><set>Inquisition</set></card>
-		<card><name id="125">Dor Amberglow</name><set>Dungeons</set></card>
-		<card><name id="115">Shan, Karate Master</name><set>Dungeons</set></card>
-		<card><name id="041">Jasper</name><set>Dungeons</set></card>
-		<card><name id="037">Ren o' the Blade</name><set>Runes&Ruins</set></card>
-		<card><name id="091">Belwar Dissengulp</name><set>Underdark</set></card>
-		<card><name id="107">Lord Blacktree</name><set>Artifacts</set></card>
-		<card><name id="098">Randal Morn</name><set>Forgotten</set></card>
 	</superzone>
 </deck>

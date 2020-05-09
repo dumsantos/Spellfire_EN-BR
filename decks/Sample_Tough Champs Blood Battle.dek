@@ -59,12 +59,5 @@
 		<card><name id="082">Con Game</name><set>Dungeons</set></card>
 		<card><name id="112">Shadowcloak</name><set>Nightstalkers</set></card>
 		<card><name id="046">Dancing Sword</name><set>Nightstalkers</set></card>
-		<card><name id="075">Gib Nedyah</name><set>Millenium</set></card>
-		<card><name id="115">Saphire the Blue Dragon</name><set>Dracnomicon</set></card>
-		<card><name id="345">The Magian</name><set>4th-Ed</set></card>
-		<card><name id="060">Pawnmaster</name><set>Conquest</set></card>
-		<card><name id="071">Vampire, The</name><set>Nightstalkers</set></card>
-		<card><name id="110">Wizardess Carrie, The</name><set>Birthright</set></card>
-		<card><name id="094">Wizard, The</name><set>Birthright</set></card>
 	</superzone>
 </deck>

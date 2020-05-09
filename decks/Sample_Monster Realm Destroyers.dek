@@ -59,12 +59,5 @@
 		<card><name id="088">Headless Horseman</name><set>Ravenloft</set></card>
 		<card><name id="046">An Eye for an Eye!</name><set>Inquisition</set></card>
 		<card><name id="048">A Good Defense</name><set>Inquisition</set></card>
-		<card><name id="038">Fire Dragon</name><set>Dungeons</set></card>
-		<card><name id="117">Moonbeast</name><set>Nightstalkers</set></card>
-		<card><name id="111">Wyvern</name><set>Dracnomicon</set></card>
-		<card><name id="005">Undermountain</name><set>Dungeons</set></card>
-		<card><name id="015">Kal-Saitharak</name><set>Birthright</set></card>
-		<card><name id="098">Black Waters</name><set>4th-Ed</set></card>
-		<card><name id="025">Complete Surprise</name><set>Nightstalkers</set></card>
 	</superzone>
 </deck>

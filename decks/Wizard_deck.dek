@@ -1,0 +1,64 @@
+<deck version="0.8">
+	<meta>
+		<game>Spellfire_EN-BR</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="125">Greyhawk Ruins</name><set>2nd-Ed</set></card>
+		<card><name id="374">Blink</name><set>2nd-Ed</set></card>
+		<card><name id="332">Lightning Bolt</name><set>3rd-Ed</set></card>
+		<card><name id="046">Midnight, Goddess of Magic</name><set>3rd-Ed</set></card>
+		<card><name id="103">Viperhand</name><set>2nd-Ed</set></card>
+		<card><name id="370">Dispel Magic</name><set>4th-Ed</set></card>
+		<card><name id="100">Good Fortune</name><set>3rd-Ed</set></card>
+		<card><name id="271">Elminster the Mage</name><set>4th-Ed</set></card>
+		<card><name id="099">Cataclysm!</name><set>3rd-Ed</set></card>
+		<card><name id="165">Mika the Wolf-Nomad</name><set>2nd-Ed</set></card>
+		<card><name id="348">Fear</name><set>2nd-Ed</set></card>
+		<card><name id="105">Staff of Conjuring</name><set>3rd-Ed</set></card>
+		<card><name id="418">Aurak Draconian Lord</name><set>2nd-Ed</set></card>
+		<card><name id="053">Master Illithid</name><set>Dungeons</set></card>
+		<card><name id="398">Spell Turning</name><set>2nd-Ed</set></card>
+		<card><name id="379">Fire Shield</name><set>3rd-Ed</set></card>
+		<card><name id="403">Traitor</name><set>1st-Ed</set></card>
+		<card><name id="071">Uncaring, Avatar of Boccob, The</name><set>Underdark</set></card>
+		<card><name id="003">Spiderfell, The</name><set>Birthright</set></card>
+		<card><name id="003">Lost Caverns of Tsojcanth, The</name><set>Runes&amp;Ruins</set></card>
+		<card><name id="161">Rary the Traitor</name><set>1st-Ed</set></card>
+		<card><name id="026">Daggerdale</name><set>2nd-Ed</set></card>
+		<card><name id="124">Temple of Elemental Evil</name><set>1st-Ed</set></card>
+		<card><name id="275">Wind Dancers</name><set>2nd-Ed</set></card>
+		<card><name id="393">Disintegrate</name><set>1st-Ed</set></card>
+		<card><name id="112">The Lands of Iuz</name><set>2nd-Ed</set></card>
+		<card><name id="106">Spell of Formless Horror</name><set>2nd-Ed</set></card>
+		<card><name id="135">The Scarlet Brotherhood</name><set>2nd-Ed</set></card>
+		<card><name id="224">Tyr</name><set>3rd-Ed</set></card>
+		<card><name id="044">Mind Fog</name><set>Underdark</set></card>
+		<card><name id="383">Time Stop</name><set>4th-Ed</set></card>
+		<card><name id="029">Maldraedior, Great Blue Wyrm</name><set>Dracnomicon</set></card>
+		<card><name id="075">Kaisharga</name><set>Nightstalkers</set></card>
+		<card><name id="235">Flesh Golem</name><set>4th-Ed</set></card>
+		<card><name id="071">Kargat Vampire</name><set>Ravenloft</set></card>
+		<card><name id="148">Skull Keep</name><set>1st-Ed</set></card>
+		<card><name id="129">The Bright Desert</name><set>2nd-Ed</set></card>
+		<card><name id="338">Wall of Force</name><set>2nd-Ed</set></card>
+		<card><name id="319">Caravan, The</name><set>3rd-Ed</set></card>
+		<card><name id="394">Geas</name><set>1st-Ed</set></card>
+		<card><name id="217">Net of Entrapment</name><set>2nd-Ed</set></card>
+		<card><name id="204">Bribery!</name><set>2nd-Ed</set></card>
+		<card><name id="406">Phorbes&apos;s Scrolls</name><set>2nd-Ed</set></card>
+		<card><name id="123">Great Kingdom</name><set>3rd-Ed</set></card>
+		<card><name id="101">Surprise Raid</name><set>2nd-Ed</set></card>
+		<card><name id="167">Iuz the Evil</name><set>2nd-Ed</set></card>
+		<card><name id="277">Silver Hands</name><set>1st-Ed</set></card>
+		<card><name id="268">Borys the Dragon</name><set>4th-Ed</set></card>
+		<card><name id="304">Dragon King</name><set>2nd-Ed</set></card>
+		<card><name id="050">Aurak Draconians</name><set>Dragonlance</set></card>
+		<card><name id="013">Isle of Selasia</name><set>Dragonlance</set></card>
+		<card><name id="055">Help!</name><set>Artifacts</set></card>
+		<card><name id="055">Meteor Swarm</name><set>Dracnomicon</set></card>
+		<card><name id="060">Prismatic Spray</name><set>Artifacts</set></card>
+	</superzone>
+	<superzone name="Dungeon">
+		<card><name id="014">Carrock of High Magicks</name><set>Dungeons</set></card>
+	</superzone>
+</deck>

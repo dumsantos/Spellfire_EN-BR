@@ -1,6 +1,6 @@
 <deck version="0.8">
 	<meta>
-		<game>spellfire</game>
+		<game>Spellfire_EN-BR</game>
 	</meta>
 	<superzone name="Deck">
 		<card><name id="057">Son of Tasslehoff</name><set>Conquest</set></card>
@@ -13,7 +13,6 @@
 		<card><name id="125">Medallion of Faith</name><set>Dragonlance</set></card>
 		<card><name id="048">A Good Defense</name><set>Inquisition</set></card>
 		<card><name id="073">Gellidus, Dragon of Ice</name><set>Millenium</set></card>
-		<card><name id="016">Purveyor of Events</name><set>Dungeons</set></card>
 		<card><name id="086">Hijacking</name><set>Dungeons</set></card>
 		<card><name id="083">Dispel Illusion</name><set>Inquisition</set></card>
 		<card><name id="078">Slap!</name><set>Inquisition</set></card>
@@ -23,9 +22,9 @@
 		<card><name id="437">Estate Transference</name><set>1st-Ed</set></card>
 		<card><name id="069">Atonement</name><set>Inquisition</set></card>
 		<card><name id="014">Mij Reltub, the Spellfire Oracle</name><set>Inquisition</set></card>
-		<card><name id="048">Intercession</name><set>Runes&Ruins</set></card>
+		<card><name id="048">Intercession</name><set>Runes&amp;Ruins</set></card>
 		<card><name id="382">Limited Wish</name><set>4th-Ed</set></card>
-		<card><name id="047">Dragon's Calm</name><set>Dracnomicon</set></card>
+		<card><name id="047">Dragon&apos;s Calm</name><set>Dracnomicon</set></card>
 		<card><name id="422">Gatekeeper</name><set>1st-Ed</set></card>
 		<card><name id="121">Sword and Helm of Garion, The</name><set>Underdark</set></card>
 		<card><name id="043">The Gathering</name><set>Inquisition</set></card>
@@ -41,9 +40,9 @@
 		<card><name id="124">Temple of Elemental Evil</name><set>3rd-Ed</set></card>
 		<card><name id="106">Ultimate Triumvirate, The</name><set>Underdark</set></card>
 		<card><name id="050">Cariele</name><set>4th-Ed</set></card>
-		<card><name id="125">Mad Scientist's Laboratory</name><set>Nightstalkers</set></card>
+		<card><name id="125">Mad Scientist&apos;s Laboratory</name><set>Nightstalkers</set></card>
 		<card><name id="006">Gib Thiaf</name><set>Chaos</set></card>
-		<card><name id="116">Gib Kcir</name><set>Runes&Ruins</set></card>
+		<card><name id="116">Gib Kcir</name><set>Runes&amp;Ruins</set></card>
 		<card><name id="384">Wish</name><set>4th-Ed</set></card>
 		<card><name id="003">Mintarn</name><set>Nightstalkers</set></card>
 		<card><name id="092">Ancient Kalidnay</name><set>Artifacts</set></card>
@@ -59,12 +58,8 @@
 		<card><name id="171">Rings of All Seeing</name><set>4th-Ed</set></card>
 		<card><name id="002">Menzoberranzan</name><set>3rd-Ed</set></card>
 		<card><name id="089">Elven Towers</name><set>Millenium</set></card>
-		<card><name id="061">Dalamar</name><set>Conquest</set></card>
-		<card><name id="032">Fizban the Fabulous</name><set>Dragonlance</set></card>
-		<card><name id="338">Jarek Halvs</name><set>4th-Ed</set></card>
-		<card><name id="337">Ansalong</name><set>4th-Ed</set></card>
-		<card><name id="328">Salurana</name><set>4th-Ed</set></card>
-		<card><name id="053">Shield of Huma</name><set>Dragonlance</set></card>
-		<card><name id="004">Murtha the Gypsy</name><set>Chaos</set></card>
+	</superzone>
+	<superzone name="Dungeon">
+		<card><name id="016">Purveyor of Events</name><set>Dungeons</set></card>
 	</superzone>
 </deck>

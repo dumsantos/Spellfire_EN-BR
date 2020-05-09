@@ -59,12 +59,5 @@
 		<card><name id="067">Ogre's Horned Helm</name><set>Inquisition</set></card>
 		<card><name id="074">Front Lines</name><set>Conquest</set></card>
 		<card><name id="011">Dementlieu</name><set>Ravenloft</set></card>
-		<card><name id="440">King of the Elves, The</name><set>1st-Ed</set></card>
-		<card><name id="408">Living Scroll</name><set>1st-Ed</set></card>
-		<card><name id="121">Boots of Fharlanghn</name><set>Runes&Ruins</set></card>
-		<card><name id="062">Kronos the Titan</name><set>Millenium</set></card>
-		<card><name id="044">Romeis Gianthammer</name><set>Conquest</set></card>
-		<card><name id="046">Gib Occav</name><set>Conquest</set></card>
-		<card><name id="167">Iuz the Evil</name><set>3rd-Ed</set></card>
 	</superzone>
 </deck>

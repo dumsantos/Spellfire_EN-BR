@@ -59,12 +59,5 @@
 		<card><name id="093">Ellorelloran</name><set>Underdark</set></card>
 		<card><name id="344">The Harpy</name><set>4th-Ed</set></card>
 		<card><name id="070">Pearl Pegasus</name><set>Dungeons</set></card>
-		<card><name id="357">Bride of Malice</name><set>4th-Ed</set></card>
-		<card><name id="486">Verenestra</name><set>4th-Ed</set></card>
-		<card><name id="487">Midnight, Goddess of Magic</name><set>4th-Ed</set></card>
-		<card><name id="062">Wizard</name><set>Conquest</set></card>
-		<card><name id="088">Ambassador Carrague</name><set>Forgotten</set></card>
-		<card><name id="106">Manshoon of the Zhentarim</name><set>Runes&Ruins</set></card>
-		<card><name id="098">Aquilla</name><set>Underdark</set></card>
 	</superzone>
 </deck>

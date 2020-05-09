@@ -59,12 +59,5 @@
 		<card><name id="075">Korgunard the Avangion</name><set>Artifacts</set></card>
 		<card><name id="188">Young Gold Dragon</name><set>3rd-Ed</set></card>
 		<card><name id="024">Favorable Winds</name><set>Dracnomicon</set></card>
-		<card><name id="017">Saldon the White</name><set>Inquisition</set></card>
-		<card><name id="039">Tasslehoff Burrfoot</name><set>Dragonlance</set></card>
-		<card><name id="456">Halcyon</name><set>1st-Ed</set></card>
-		<card><name id="074">Recall</name><set>Dragonlance</set></card>
-		<card><name id="104">Lost Treasure</name><set>Runes&Ruins</set></card>
-		<card><name id="068">Orb of Delight</name><set>Inquisition</set></card>
-		<card><name id="037">Greyhawk Dragon</name><set>Dracnomicon</set></card>
 	</superzone>
 </deck>

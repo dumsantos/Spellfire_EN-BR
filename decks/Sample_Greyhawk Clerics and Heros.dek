@@ -16,7 +16,6 @@
 		<card><name id="045">Tyvorg the Frost Giant</name><set>Dungeons</set></card>
 		<card><name id="028">Sarana</name><set>Inquisition</set></card>
 		<card><name id="029">Kiri Allavesse</name><set>Inquisition</set></card>
-		<card><name id="006">Labyrinth of Castle Greyhawk</name><set>Dungeons</set></card>
 		<card><name id="117">Horned Society, The</name><set>3rd-Ed</set></card>
 		<card><name id="031">Border Garrison</name><set>Dungeons</set></card>
 		<card><name id="016">Furyondy</name><set>4th-Ed</set></card>
@@ -59,5 +58,8 @@
 		<card><name id="001">Tarrasque</name><set>Forgotten</set></card>
 		<card><name id="032">Gib Ergo</name><set>Inquisition</set></card>
 		<card><name id="119">Rary&apos;s Apprentice</name><set>Dungeons</set></card>
+	</superzone>
+	<superzone name="Dungeon">
+		<card><name id="006">Labyrinth of Castle Greyhawk</name><set>Dungeons</set></card>
 	</superzone>
 </deck>
